@@ -4,17 +4,16 @@
 
 # Fooocus
 
-[>>> Click Here to Install Fooocus <<<](#download)  
-
-Fooocus is an image generating software (based on [Gradio](https://www.gradio.app/) <a href='https://github.com/gradio-app/gradio'><img src='https://img.shields.io/github/stars/gradio-app/gradio'></a>).
-
 <p align="center">
   <a href="https://fooocusai.ai/playground" target="_blank">
     <button style="padding:10px 20px; font-size:16px; background-color:#0d6efd; color:white; border:none; border-radius:6px; cursor:pointer;">
       USE FOOCUS FOR FREE BY Nass works
     </button>
   </a>
-</p>
+</p 
+
+Fooocus is an image generating software (based on [Gradio](https://www.gradio.app/) <a href='https://github.com/gradio-app/gradio'><img src='https://img.shields.io/github/stars/gradio-app/gradio'></a>).
+>
 
 Fooocus presents a rethinking of image generator designs. The software is offline, open source, and free, while at the same time, similar to many online image generators like Midjourney, the manual tweaking is not needed, and users only need to focus on the prompts and images. Fooocus has also simplified the installation: between pressing "download" and generating the first image, the number of needed mouse clicks is strictly limited to less than 3. Minimal GPU memory requirement is 4GB (Nvidia).
 
