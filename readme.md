@@ -4,6 +4,8 @@
 
 # Fooocus
 
+[>>> Click Here to Install Fooocus <<<](#download)
+
 <p align="center">
   <a href="https://fooocusai.ai/playground" target="_blank">
     <button style="padding:10px 20px; font-size:16px; background-color:#0d6efd; color:white; border:none; border-radius:6px; cursor:pointer;">
@@ -11,8 +13,6 @@
     </button>
   </a>
 </p>
-
-[>>> Click Here to Install Fooocus <<<](#download)
 
 Fooocus is an image generating software (based on [Gradio](https://www.gradio.app/) <a href='https://github.com/gradio-app/gradio'><img src='https://img.shields.io/github/stars/gradio-app/gradio'></a>).
 
